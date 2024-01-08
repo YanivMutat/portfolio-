@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### Education
-Economic and Data Science M.A  Ben Gurion University                     Sep 2021 - Sep 2023 
+Economic and Data Science M.A  Ben Gurion University  
+Sep 2021 - Sep 2023 
 Cumulative score: 92
 
 
@@ -11,7 +12,8 @@ Grade of Thesis: 98
 • Completion of a Master's degree with distinction
 • Completion of a Master's degree as part of an excellence program.
 
-B.A in Economics and African Studies  Ben Gurion University               Oct 2018 - Aug 2021
+B.A in Economics and African Studies  Ben Gurion University      
+Oct 2018 - Aug 2021
 Cumulative score: 90
 
 
@@ -20,7 +22,8 @@ Cumulative score: 90
 ### Woek experience
 
 Ben Gurion University Beer Sheva, Israel          
-Research Assistant                                                       February 2022 - Present
+Research Assistant                                             
+February 2022 - Present
 
 Worked as a research assistant for two professors, focusing on data analysis in the field of development economics, and microeconomics. 
 During this role I:
@@ -30,7 +33,9 @@ During this role I:
 
 
 
-Ben Gurion University Beer Sheva, Israel                                Teaching Assistant September 2021 -August 2022
+Ben Gurion University Beer Sheva, Israel       
+Teaching Assistant 
+September 2021 -August 2022
 
 Worked as a teaching assistant, teaching the courses introduction to micro economics and introduction to macro economics.
 During this role I:
@@ -39,7 +44,8 @@ During this role I:
 
 
 Bagira Systems Beer Sheva, Israel
-Army Simulator Operator                                                 April 2019 - January 2021
+Army Simulator Operator       
+April 2019 - January 2021
 
 Worked as simulator operator, training and operating advanced army simulators to enhance combat skills and decision-making
 officers abilities. During this role I:
@@ -49,7 +55,8 @@ sessions.
 
 
 IDF
-Combat Officer in the Combat Intelligence Collection Corps               March 2015 - November 2017
+Combat Officer in the Combat Intelligence Collection Corps    
+March 2015 - November 2017
 
 Key skills:
 • Leadership and Team Management: Directed and motivated squads to achieve objectives in challenging environments.
