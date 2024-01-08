@@ -1,4 +1,4 @@
-![Yaniv's Picture](yaniv5.png)
+![Yaniv's Picture](yaniv5.jpg)
 
 # Data Scientist
 
