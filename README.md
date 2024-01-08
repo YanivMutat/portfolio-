@@ -1,32 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
-    <style>
-        body {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
+# Data Scientist
 
-        #content {
-            flex-grow: 1;
-            margin: 0 20px;
-        }
-
-        #image {
-            max-width: 200px; /* Adjust the size as needed */
-            max-height: 200px;
-            border-radius: 10px;
-        }
-    </style>
-</head>
-<body>
-
-<div id="content">
-    # Data Scientist
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex-grow: 1; margin-right: 20px;">
 
     ### Education
     Economic and Data Science M.A  Ben Gurion University  
@@ -50,4 +25,17 @@
     Research Assistant                                             
     February 2022 - Present
 
-    Worked as a research assistant for two professor
+    Worked as a research assistant for two professors, focusing on data analysis in the field of development economics, and microeconomics. 
+    During this role I:
+
+    ● Used Python, Stata and Excel for cleaning, merging, and analyzing complex and big datasets.
+
+    ● Used Python and Stata to visualize correlations between the research targeted variables (matplotlib)
+
+    ● Established casual relationship using complex econometric and statistical models
+
+    <!-- Rest of your content -->
+  </div>
+
+  <img src="yaniv5.png" alt="Yaniv's Picture" style="max-width: 200px; max-height: 200px; border-radius: 10px;">
+</div>
