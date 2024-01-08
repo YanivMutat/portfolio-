@@ -1,36 +1,53 @@
-![Yaniv's Picture](yaniv5.jpg)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
 
-# Data Scientist
+        #content {
+            flex-grow: 1;
+            margin: 0 20px;
+        }
 
-### Education
-Economic and Data Science M.A  Ben Gurion University  
-Sep 2021 - Sep 2023 
-Cumulative score: 92
+        #image {
+            max-width: 200px; /* Adjust the size as needed */
+            max-height: 200px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
 
-Thesis subject: “Does removing executive constraints affect short and long term economic growth?"
-Grade of Thesis: 98
+<div id="content">
+    # Data Scientist
 
-• Completion of a Master's degree with distinction
+    ### Education
+    Economic and Data Science M.A  Ben Gurion University  
+    Sep 2021 - Sep 2023 
+    Cumulative score: 92
 
-• Completion of a Master's degree as part of an excellence program.
+    Thesis subject: “Does removing executive constraints affect short and long term economic growth?"
+    Grade of Thesis: 98
 
-B.A in Economics and African Studies  Ben Gurion University      
-Oct 2018 - Aug 2021
-Cumulative score: 90
+    • Completion of a Master's degree with distinction
 
-### Work experience
+    • Completion of a Master's degree as part of an excellence program.
 
-Ben Gurion University Beer Sheva, Israel          
-Research Assistant                                             
-February 2022 - Present
+    B.A in Economics and African Studies  Ben Gurion University      
+    Oct 2018 - Aug 2021
+    Cumulative score: 90
 
-Worked as a research assistant for two professors, focusing on data analysis in the field of development economics, and microeconomics. 
-During this role I:
+    ### Work experience
 
-● Used Python, Stata and Excel for cleaning, merging, and analyzing complex and big datasets.
+    Ben Gurion University Beer Sheva, Israel          
+    Research Assistant                                             
+    February 2022 - Present
 
-● Used Python and Stata to visualize correlations between the research targeted variables (matplotlib)
-
-● Established casual relationship using complex econometric and statistical models
-
-<!-- Rest of your content -->
+    Worked as a research assistant for two professor
