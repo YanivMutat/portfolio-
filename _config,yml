@@ -1,2 +1,6 @@
 title: Yaniv Mutat
-theme: jeykll-theme-minimal
+logo: /assets/img/yaniv5.png
+
+#description: data science portfolio 
+show_downloads: true
+theme: jekyll-theme-minimal
