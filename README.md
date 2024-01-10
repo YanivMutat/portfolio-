@@ -1,4 +1,3 @@
-add picture on the upper side of this page with this code:
 # Data Scientist
 
 ![Yaniv's Picture](yaniv5.jpg)
